@@ -6,3 +6,5 @@
 
 
 `node index.js 2test1` => 21
+
+`npm test`
